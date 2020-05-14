@@ -1,5 +1,5 @@
 _repo: Child-of-the-Sun_62037
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leydenfrost, Alexander
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26699'
     url: http://www.gutenberg.org/2009/agents/26699
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Leydenfrost
+covers:
+- cover_type: archival
+  image_path: 62037-h/images/cover.jpg
 creator:
   author:
     agent_name: Brackett, Leigh
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25398
     wikipedia: https://en.wikipedia.org/wiki/Leigh_Brackett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62037#Child-of-the-Sun
 gutenberg_issued: '2020-05-06'
 gutenberg_type: Text
 identifiers:
